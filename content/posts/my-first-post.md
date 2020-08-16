@@ -6,8 +6,4 @@ draft: false
 
 This is some text I wrote in cloud9.
 
-## Big Tags
-
-## The best people
-
-## It it what it is
+## Data Science is better than the Highest Paid Person's Opinion (HippO)
